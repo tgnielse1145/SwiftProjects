@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  I am Rich
+//  Temp
 //
 //  Created by Todd Nielsen on 5/3/22.
 //

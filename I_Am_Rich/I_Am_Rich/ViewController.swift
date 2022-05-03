@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  I am Rich
+//  I_Am_Rich
 //
 //  Created by Todd Nielsen on 5/3/22.
 //
